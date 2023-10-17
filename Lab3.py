@@ -1,4 +1,4 @@
-base_string = input("Введите строку: ")
+base_string = input("Введите строку для поиска: ")
 required_fragment = input("Введите образец поиска: ")
 
 if (len(base_string) == 0 or len(required_fragment) == 0):
